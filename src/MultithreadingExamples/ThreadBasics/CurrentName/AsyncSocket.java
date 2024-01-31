@@ -1,4 +1,4 @@
-package MultithreadingExamples.ThreadBasics.CurrentName;
+package ThreadBasics.CurrentName;
 
 public class AsyncSocket extends Thread {
 

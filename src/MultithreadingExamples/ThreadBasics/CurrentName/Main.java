@@ -1,4 +1,4 @@
-package MultithreadingExamples.ThreadBasics.CurrentName;
+package ThreadBasics.CurrentName;
 
 public class Main extends Thread{
     private AsyncSocket asyncSocket;
@@ -10,7 +10,7 @@ public class Main extends Thread{
 
     @Override
     public void run() {
-        System.out.println("Data is " + asyncSocket.getResult());
+        System.out.println("Data is - " + asyncSocket.getResult());
     }
 
     public static void main(String[] args) {

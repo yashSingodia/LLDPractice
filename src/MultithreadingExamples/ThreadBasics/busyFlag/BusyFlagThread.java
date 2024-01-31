@@ -1,4 +1,4 @@
-package MultithreadingExamples.ThreadBasics.busyFlag;
+package ThreadBasics.busyFlag;
 
 public class BusyFlagThread {
 
