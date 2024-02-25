@@ -1,0 +1,21 @@
+FR
+1. Seller should be able to create a deal
+2. should add products, price, quantities
+3. Buyer can come and avail the deal, 1 product
+4. deal will have 1 product
+5. Deal End time -> user cannot buy
+
+--
+Scale
+Notifications
+
+
+NFR
+1. Responsive
+2. Available
+3. durable
+4. Instrumentation/Telemetery
+5. Exception Handling
+6. Test cases
+
+Design

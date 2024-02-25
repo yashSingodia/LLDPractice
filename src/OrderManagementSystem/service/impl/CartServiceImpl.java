@@ -7,6 +7,9 @@ import java.util.Map;
 
 public class CartServiceImpl implements CartService {
 
+    // instead of having a cart object here, as we would have to create multiple objects of cartServiceImpl for each user
+    // take userId as input and fetch cart from the user using userService
+
     private final Cart cart;
 
     public CartServiceImpl(Cart cart) {

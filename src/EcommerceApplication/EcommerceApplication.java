@@ -12,7 +12,7 @@ import EcommerceApplication.strategy.impl.CreditCardPaymentStrategy;
 
 import java.util.List;
 
-public class EcommerceApplication {
+public class xzEcommerceApplication {
 
     public static void main(String[] args) {
 
